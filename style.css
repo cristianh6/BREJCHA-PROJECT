@@ -1,0 +1,24 @@
+
+
+:root {
+    --celeste: rgba(173,199,233,255);
+    --blanco: rgba(255,255,255,255);
+    --amarillo: rgba(236,198,55,255);
+}
+/* 
+div {
+    background-color: var(--celeste);
+}
+
+#a {
+    background-color: var(--celeste);
+}
+
+
+    div {
+        height: 100vh;
+        margin: 0;
+        background: radial-gradient(var(--blanco) 25%, var(--celeste) 75%);
+        background-repeat: no-repeat;
+      }
+ */
